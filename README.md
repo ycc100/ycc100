@@ -1,2 +1,3 @@
 # ycc100
-my repository
+my first repository.
+only for test.
